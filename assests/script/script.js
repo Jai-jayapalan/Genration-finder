@@ -1,0 +1,1 @@
+// genration finder using javascript
